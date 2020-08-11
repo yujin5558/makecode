@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="radio_set_group" id="gy+f!0d{1B0dL[+@w=H3" disabled="true" x="0" y="0"><value name="ID"><shadow type="math_number_minmax" id="tr9ZCbFt$DVzyPuGV,HQ"><mutation min="0" max="255" label="Id" precision="0"/><field name="SLIDER">0</field></shadow></value></block></xml>
